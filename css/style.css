@@ -842,13 +842,13 @@ h6 {
 --------------------------------------------------------------*/
 
 #footer {
-  padding: 0 0 30px 0;
+  padding: 0 0 15px 0;
   font-size: 14px;
   background: #fff;
 }
 
 #footer .footer-top {
-  padding: 60px 0 30px 0;
+  padding: 60px 0 15px 0;
   background: #f5f8fd;
 }
 
@@ -894,6 +894,7 @@ h6 {
 #footer .footer-top .social-links a:hover {
   background: #0a98c0;
   color: #fff;
+  text-align: center;
 }
 
 #footer .footer-top h4 {
@@ -902,7 +903,7 @@ h6 {
   color: #413e66;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 #footer .footer-top .footer-links {
